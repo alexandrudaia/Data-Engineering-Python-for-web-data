@@ -1,2 +1,3 @@
 <H1> Alexandru Daia   playing with network  and  sockets  =)
-               ![sockets](https://cloud.githubusercontent.com/assets/7158671/23579261/4b74faa0-00f2-11e7-9084-16713bcca8d4.gif)
+
+![sockets](https://cloud.githubusercontent.com/assets/7158671/23579261/4b74faa0-00f2-11e7-9084-16713bcca8d4.gif)
